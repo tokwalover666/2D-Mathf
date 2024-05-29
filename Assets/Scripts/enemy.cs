@@ -54,6 +54,12 @@ public class enemy : MonoBehaviour
             transform.position += transform.up * 5.0f * Time.deltaTime;
         }
         Debug.DrawRay(transform.position, transform.up * 10f, Color.red);
-        Quaternion rayAngle
+        Quaternion rayAngle = Quaternion.Euler(0, 0, -viewAngle);
+        Debug.DrawRay(transform.position, rayAngle * transform.up * viewAngle, seen
+        ? Color.red : Color.yellow);
+        rayAngle = Quaternion.Euler(0, 0, viewAngle);
+        Debug.DrawRay(transform.position, rayAngle * transform.up * viewAngle, seen
+        ? Color.red : Color.yellow);
     }
 }
+
