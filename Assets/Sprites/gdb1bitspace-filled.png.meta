@@ -1,0 +1,4241 @@
+fileFormatVersion: 2
+guid: c4f3b70d5b0c191468f5573046191073
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 581
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f82b23cf4be2445a37e21663199b51
+      internalID: -859528639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 581
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce539acf5252bd48ac7d3eb0bd70a18
+      internalID: 1556795343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 579
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb13a19429a4374394f01f80500060b
+      internalID: 1406678573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 579
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b482553f4fc962043a5065ce688ff542
+      internalID: -23610838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 565
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e5cb84769e797479866da6833d17d4
+      internalID: 1504348813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 565
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5911aa0d51149544eba367227b7b317e
+      internalID: 67213493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 565
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40727728b86492e4e850ac4c3e4de102
+      internalID: 996141050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 563
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4843518abd3ac0646bc3b3e59e28d794
+      internalID: 888486136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 563
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffe06665fdbf4b49af9333dc28a8983
+      internalID: -1724443325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 563
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f572d0ccbba83f4d89cf87f95f6a2f7
+      internalID: 687253593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 563
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c27757bfa725443a2cc779cce694cc
+      internalID: 1739594597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 563
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fc089c78ae2ca4ba3d50858f4fe87f
+      internalID: -1913508735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 547
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df4ff673bb636f4d865cb112082288a
+      internalID: -436128552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 563
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba2263e08e237f4a8542ff7e7bd5168
+      internalID: -769297529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 563
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0e509908d8f884ea651501517bdfc9
+      internalID: -2112496254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 562
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719e61418c88f614899b13fed05d42f5
+      internalID: 1945253150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 562
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff4f7ac98eeda04eb9fab852bd3aeed
+      internalID: 1648304695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 562
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadb2eee9f09b8e499c572d481f59500
+      internalID: 777230679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 562
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f876b6f889d5804bbc9633d9789e642
+      internalID: 1213016824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_19
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 562
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd816c25dbeedb242aa14bca611d0942
+      internalID: 1370683694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 547
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f386e88c3c4a5534eb5d6f1bf5291f18
+      internalID: -661836055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_21
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 562
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea09fae103905e4cbe8a4f4966d147b
+      internalID: -73265659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 562
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059494ef597e5da458093d28a11d1df2
+      internalID: -2079626514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 549
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14bd68328d27ca439ef0bdde9af168f
+      internalID: -1223271623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 549
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b6e9a1928ce364cb00a0aeeacd5153
+      internalID: 658717961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_25
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 549
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e369767a655ca439ac4992f083fa65
+      internalID: -327277264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 549
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eecee52c791de4ca50cda49439400b
+      internalID: -2081379869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 547
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370ca4eff1c99974a9f66d7f00da8957
+      internalID: 1419215498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 547
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8b3bd350e00e44e892755eca66ff8f
+      internalID: -2037073130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 547
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec17a23d4159474e9d15899e5162d18
+      internalID: -643692874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 547
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1b6380f79de224082d71020df6184d
+      internalID: 404897525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 547
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a287c753092e147b5f9947dab07eb0
+      internalID: 2124791879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 547
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02999967c4d876b4f96ad570fd595c05
+      internalID: 978816600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 547
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fff0ce6b1aa2a42ab59177cf93eaf8
+      internalID: -1054827782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_34
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 547
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d92893536543c4ca81501818cf41fc
+      internalID: 383878340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 548
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d327e881687e5458af4894969c911a
+      internalID: -473931614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_36
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 547
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6663fbe9e5eecde49b2fcfe297169d05
+      internalID: -776507508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 547
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e73ce6a0b6513c458ee7f66f7f4cd3d
+      internalID: -1751673603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_38
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 547
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828797ba6465f314683309b2a79d344c
+      internalID: 1667704266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 517
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7736a5373d72cf04f9e8156ddd52db90
+      internalID: 1018395110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 517
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03747e22ea9fb942a43b149ea6310d6
+      internalID: -94593804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 514
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83daac129496c0d46adfdc477af22a15
+      internalID: 724347416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 514
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f322cf7f4b28424492f511f80346fa7
+      internalID: -2127561164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_43
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 501
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca32f2109a5e1646b2cafe2fdf771eb
+      internalID: -944375749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_44
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 501
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444fa4a731fb43045a3086bd2cf3c7e7
+      internalID: -241324220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_45
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 501
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a937746af9530904188a0e9a50c8e268
+      internalID: -682776883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 498
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f34c82e8f2ac2446b32e25a651c51b3
+      internalID: -80983078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 498
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafa4e9b9c97a464ba1c97989a42b87f
+      internalID: -204632216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 498
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6298e755a13f4ca4ebef4e832b7af6ad
+      internalID: 1591078304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 491
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cbe33a8b57c8f479df1282a84db5be
+      internalID: -1617478577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 498
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1efafa77f0d8c4397d1105d9f43ce9
+      internalID: 1492823462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 482
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829e33af8d843354895a3e63a4f57891
+      internalID: -27861214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 498
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a00afe46a1bea4ea64dae12591d291
+      internalID: 1113080187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_53
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 498
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d79df560113cd41814fcff4f994037
+      internalID: 1463641325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_54
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 498
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39bfe1454389d34289792b7ae39a7ad
+      internalID: -1414668757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 498
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e370a459b304c04c9b63c01af446615
+      internalID: -1319779832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 498
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b46f7329eb21a644aa68bded399ec92
+      internalID: -537879302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 498
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcdbce8aee5f094abc70d8bccd3de6d
+      internalID: -2080685590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_58
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 498
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fb34419a0da8c4ea0323236e9abce5
+      internalID: 1214228068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 482
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f547f95a46b4bc44a2bdd738218bcc7
+      internalID: 2128563870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_60
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 498
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca36b1797320ef44daba79ef5253654c
+      internalID: -428679009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 498
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d76bdbdc971f441bf72d4ab56c510c
+      internalID: 1894481445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_62
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 485
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a0d7918226667418831f4b0e61d29b
+      internalID: 2069422042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_63
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 485
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f462fc5eacabce45b7754178e9a2564
+      internalID: -1818256669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_64
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 485
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee32919db61c0d4894bc6167b5ddb26
+      internalID: -43431522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_65
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 485
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1fcdaddd9599242b36d7881c5a2e79
+      internalID: 554723519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 482
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8687f2143aa4cb4ea92493abb327b2f
+      internalID: -198567265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 483
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e835639f0b25343b581d4894e4a41a
+      internalID: 812741292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_68
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 482
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddca26fe9fbf81e4eaa432037cf9fb7c
+      internalID: 896214225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 484
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abad8c30e19ccb745b3ec0400c946287
+      internalID: 1331868021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_70
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 482
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb89673971d52204e9726d082f80b856
+      internalID: -1043367745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 483
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fccf45dcbd3ad4ebcdf61410861abf
+      internalID: 67736037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 482
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb45e5200404fb4f8a63510f70c20fa
+      internalID: 989303069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 482
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80004d8b99e6894faa46420f66ff0be
+      internalID: 389003840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 483
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428991698b2ebf544a34d9df0eb76d09
+      internalID: -283296232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_75
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 482
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4c242f2701e334ea685c2da449f0d6
+      internalID: 1013356950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_76
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 484
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37ee48d132bb614da54c1e3c6f270bd
+      internalID: -1041428178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_77
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 482
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96734866ad952349bbfbcbab5c0ac26
+      internalID: -1535601822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 483
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c4516dd4dbc954c8e00d10024b4a7c
+      internalID: 532253610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_79
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 482
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aea62e7c1bf79c4281a2b6e43970429
+      internalID: -272326244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 421
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2966210363e6f71468c321345aa7c0f7
+      internalID: 719393671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_81
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 421
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9676b4b99cbae47479a83bf0fde43112
+      internalID: -1133542688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_82
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 421
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2c0e56567590144b71a14a42c3cf9f
+      internalID: 941122542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_83
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 421
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d6f099e3adb6443965570fffd61982
+      internalID: -2032841223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_84
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 421
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bf8102bfaa8544ba94d63bb37adc1b
+      internalID: -1121290831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 425
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04cd08cf8984f84a9f72b9b00481c9c
+      internalID: 1848471191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_86
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 425
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4851410168a3a2a47bfd2fd6436f04e9
+      internalID: -1293271123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 419
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45c6608705f9f24090eb7137eb31cae
+      internalID: 2075466665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_88
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 422
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8537652e4549c6c4890116af179b3418
+      internalID: -1455776731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_89
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 421
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80e2efee4231394c96ba2aeb0f91cd3
+      internalID: -697006608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_90
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 421
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bccc7a966a0e5449ee84ad045bff29
+      internalID: 1241132853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_91
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 421
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12ad3e9b8c646849b6488ac6768d9f0
+      internalID: 694502636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_92
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 421
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e36f646a11b0b74dbf5dc906e083a78
+      internalID: 1849027491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_93
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 373
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b04ab6679829e4e9490b630984a699
+      internalID: 9769320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_94
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 373
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d849f62fd95eb409b7e49dc98cb1da
+      internalID: 306505052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_95
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 373
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb86bac0f82d5de4f9c1d2c922de7ec7
+      internalID: -583543359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_96
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 373
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df819b66554c4224a9c94a496bbbda4a
+      internalID: 790012152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_97
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 373
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c0ab1420775f54f92744fc1a48d258
+      internalID: -519988238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_98
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 372
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e80d146419f744aa2cd39dbe926e93
+      internalID: 1423736923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 369
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc01f29cbb895e14ea32906ee8ad2c73
+      internalID: 1596016287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 370
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb95dc0906bbd44fb1e1241d1cafa49
+      internalID: -936994458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 355
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bc038f471f13e4285b3fa6a39c4f9d
+      internalID: 1675707886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_102
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 353
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24f6b2028c8f2c4881149c88f1d6698
+      internalID: -1502294492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_103
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 354
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbc8d40e9b2ec542acb77666a5e4bbf
+      internalID: -379559283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_104
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 353
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd66aaf5d5214d4a80a7c70d7df47cd
+      internalID: -619728256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_105
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 340
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819807f9506cc6a4191144493dd94ab4
+      internalID: 1862563515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 338
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a6e4af852e08a47a5e116f9aa064f5
+      internalID: -769443742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_107
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 340
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f30d25b0bd5594198ca95611e52230
+      internalID: 1747441681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 260
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962097af2ccabbe4397cb154b4fa482e
+      internalID: -263170669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 260
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34493d556d166644dbe78dcf617123d4
+      internalID: 485322070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 260
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c917f038fce91488c912f0d9486b80
+      internalID: -1102060783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_111
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 260
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c200324b655ec444ad96f694b9510e9
+      internalID: 999631930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_112
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 260
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076323320f863b743a499be953ba9470
+      internalID: -2054632142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_113
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 288
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cccf4edb1032c4084ea166fff851e5
+      internalID: 1768766885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_114
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 308
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2308119c86159444c90f4e244b1d5bff
+      internalID: -47511782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_115
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 299
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d28087396c28e44a8335f0bd2d99bf5
+      internalID: -187477635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_116
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 306
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c2767875c5f4d44b56cca822c5d38d
+      internalID: -102210042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_117
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 295
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549362c26ca6fb944bb33f42d5babdf2
+      internalID: -310416706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_118
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 257
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b368c5685c6cbf4fbbc0218df997465
+      internalID: -780149573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_119
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 293
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b10a22c388fd1b44959c45f6e7fda93
+      internalID: -1519827786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_120
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 275
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd68503be4f1a074483d153a1011a651
+      internalID: -1182346920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_121
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 265
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d97390995285d44fb35f39163bc90f8
+      internalID: -662142215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_122
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 281
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc716814eb69f043a141b44ed524368
+      internalID: 2031486363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_123
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 270
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfccb3668399b7e4f948d5c73b7651a6
+      internalID: -1200061959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_124
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 278
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be1dacb10420ca4fa9978a210281858
+      internalID: -470552194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_125
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 272
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904da794c11899f40ac6aa8cd72be4c4
+      internalID: 1463205516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_126
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 271
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058e4ff23ea55ed4ca1e516992bab3cd
+      internalID: 947288726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_127
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 272
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f201b2a555a554c866be8f1cb1ad0c
+      internalID: 1874138823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_128
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 274
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d243d9eb5f461a4893e48747bcb7a12
+      internalID: 524991282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_129
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 265
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e26bdedf8d17b84fb63b3391c2711b8
+      internalID: -1916236642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_130
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 270
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1c0afa76399f348841098427a377f4
+      internalID: -2118135379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_131
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 260
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e289d54ee9c164c8ca8ddff38b39ac
+      internalID: -1471616582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_132
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 263
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b7b718f18d46a4eaaf2c60f65b9e15
+      internalID: -211620579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_133
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 260
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502ab6667e3ce084780b08d9cf0ccf50
+      internalID: -1951893975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_134
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 264
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19e94a9ce4908142813533525c0ccb7
+      internalID: -1925649597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_135
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 213
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec484b6ebcc4e134fbaaf543ff9ef490
+      internalID: 1595974289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_136
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 213
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e931f0d3f577ca145b7a4270b3f52d9c
+      internalID: -346433077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_137
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 213
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ad5b8375caca149a4ebed48ec2ac8c
+      internalID: 1842038191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_138
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 213
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8f5ded108baae4aa4f574379704c7a
+      internalID: -437309167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_139
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 213
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d7d952c470a5c49bd7f5081e1fe367
+      internalID: 766178881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_140
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 213
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10a880a841f59e4c86248c97de23e05
+      internalID: -1740097492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_141
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 214
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc18602e0cd5f9a4aa2743f9d29abcc5
+      internalID: 1898147491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_142
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 113
+        width: 23
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729e817ca51c8ff49a904351ba60f632
+      internalID: 1229686815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_143
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 212
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2033ebf3273a0b448864c6446cb35e3
+      internalID: -861034934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_144
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 161
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdf21f41f6f7a04f82c81415b7c950c
+      internalID: 883273203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_145
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 169
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef743730386576349891226597d74fb6
+      internalID: -2110927759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_146
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 211
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d6245ed2895f54f8cbf80c0eb3b05c
+      internalID: -338128136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_147
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 185
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892e88c85c8e0454d98be21bc6b7ec97
+      internalID: 1815111704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_148
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 137
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313f82efd97be944ca3ed82bb66fc3fc
+      internalID: -516787043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_149
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 185
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e6c056eff96a74a9a0ea95f737c90e
+      internalID: 1739238719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_150
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 212
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0277292986a03a4ca0911d6743e979a
+      internalID: -16939439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_151
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 185
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5488f1b7e206f439431835082cdf91
+      internalID: 852490913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_152
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 213
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9809b6bddb75fab4dbc0334aeb8cad45
+      internalID: -818791249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_153
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 185
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7a7b06525c5e94e88ad49150b895b3
+      internalID: -1360505780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_154
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 212
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85431820ee05f54ca57b3c949aad214
+      internalID: -1225396876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_155
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 185
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c28983ece4415a4c8620c0e6dee346f
+      internalID: -786746894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_156
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 214
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a8d2968f63f9545bc5ac0e8dc1af76
+      internalID: -877922420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_157
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 185
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f1139eab200cf46be2fa6471a31e14
+      internalID: -374722817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_158
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 214
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8556cc98fb73a43b57bca3ead6ed45
+      internalID: 201937721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_159
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 185
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f4c527123f0514e8821805a6458292
+      internalID: 1133603983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_160
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 185
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761daa906491fe44b8802deaca9e21ce
+      internalID: -1652991226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_161
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 185
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74b5d9d6355d1040ab408ab3032c0e7
+      internalID: -286606684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_162
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 185
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666d685f7afa32f40aa818db778e55c5
+      internalID: 609271590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_163
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 185
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7752fe8fe54ffe44fa7584ae3ecb1d50
+      internalID: -284589819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_164
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 185
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aadfef6d36dfb4da3acf83b1c6528b
+      internalID: -528977736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_165
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1358e455bfd7d4d96c61c07e4ec4d2
+      internalID: 847029438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_166
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851a175580c8c1c43929e28373bcdb1e
+      internalID: -1092747920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_167
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47036159f0edac5408d0ee6a47afd1d3
+      internalID: -2067767081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_168
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 85
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ecd720e42ecab4bb716900aaee3789
+      internalID: -1474597648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_169
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b657d2bc8b9f24eb14894c70dc344f
+      internalID: -913251228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_170
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100f13157f8aa9c45a13a6e9ff23ac33
+      internalID: 1699820500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_171
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 85
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a9e94e4f713d14db2f119c7ddf2b98
+      internalID: 1517909145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_172
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdda970a56d89884c865dfbe41591ff7
+      internalID: 1147490801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_173
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ad9f0eea800e64a936cd9b1189a0e0
+      internalID: -1629267862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_174
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 67
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e92b88dbce7d649ae95b3cd6733d81
+      internalID: 35986002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_175
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 21
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2be5583526b854e8fd198243a47c1f
+      internalID: -1931532784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_176
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 65
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eff6187ecb4ba7429d1ca940d764418
+      internalID: -1567953863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_177
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 66
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f82d341f4dd2064aa9d476ab3eff546
+      internalID: -1497514585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 66
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdbe2c5614ee994b9be129abaea074e
+      internalID: 1151721520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_179
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 74
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2a72b5ac2e1fd47ace2b31b7dc8c61
+      internalID: 1992480654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_180
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 66
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf7da03fe9bd534db59f9ff2e2c2948
+      internalID: 1653747969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_181
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 65
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa510aa4212370a498a44cc9ca0c476b
+      internalID: -1142975735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_182
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 65
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9feb3cbc348a741bdbaa2c782136be
+      internalID: 1482608150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_183
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc65736bd1cec554f94a9e199f3b6a59
+      internalID: -1986273220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_184
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941e93260d1111e4f9676cfe74e3fff9
+      internalID: -2009380639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_185
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13fde3f7d57fbc43a28ad214ee89180
+      internalID: 1404463688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb1bitspace-filled_186
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c893bbf6ec9727743a9fb8ab4723578c
+      internalID: -565550975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gdb1bitspace-filled_0: -859528639
+      gdb1bitspace-filled_1: 1556795343
+      gdb1bitspace-filled_10: 1739594597
+      gdb1bitspace-filled_100: -936994458
+      gdb1bitspace-filled_101: 1675707886
+      gdb1bitspace-filled_102: -1502294492
+      gdb1bitspace-filled_103: -379559283
+      gdb1bitspace-filled_104: -619728256
+      gdb1bitspace-filled_105: 1862563515
+      gdb1bitspace-filled_106: -769443742
+      gdb1bitspace-filled_107: 1747441681
+      gdb1bitspace-filled_108: -263170669
+      gdb1bitspace-filled_109: 485322070
+      gdb1bitspace-filled_11: -1913508735
+      gdb1bitspace-filled_110: -1102060783
+      gdb1bitspace-filled_111: 999631930
+      gdb1bitspace-filled_112: -2054632142
+      gdb1bitspace-filled_113: 1768766885
+      gdb1bitspace-filled_114: -47511782
+      gdb1bitspace-filled_115: -187477635
+      gdb1bitspace-filled_116: -102210042
+      gdb1bitspace-filled_117: -310416706
+      gdb1bitspace-filled_118: -780149573
+      gdb1bitspace-filled_119: -1519827786
+      gdb1bitspace-filled_12: -436128552
+      gdb1bitspace-filled_120: -1182346920
+      gdb1bitspace-filled_121: -662142215
+      gdb1bitspace-filled_122: 2031486363
+      gdb1bitspace-filled_123: -1200061959
+      gdb1bitspace-filled_124: -470552194
+      gdb1bitspace-filled_125: 1463205516
+      gdb1bitspace-filled_126: 947288726
+      gdb1bitspace-filled_127: 1874138823
+      gdb1bitspace-filled_128: 524991282
+      gdb1bitspace-filled_129: -1916236642
+      gdb1bitspace-filled_13: -769297529
+      gdb1bitspace-filled_130: -2118135379
+      gdb1bitspace-filled_131: -1471616582
+      gdb1bitspace-filled_132: -211620579
+      gdb1bitspace-filled_133: -1951893975
+      gdb1bitspace-filled_134: -1925649597
+      gdb1bitspace-filled_135: 1595974289
+      gdb1bitspace-filled_136: -346433077
+      gdb1bitspace-filled_137: 1842038191
+      gdb1bitspace-filled_138: -437309167
+      gdb1bitspace-filled_139: 766178881
+      gdb1bitspace-filled_14: -2112496254
+      gdb1bitspace-filled_140: -1740097492
+      gdb1bitspace-filled_141: 1898147491
+      gdb1bitspace-filled_142: 1229686815
+      gdb1bitspace-filled_143: -861034934
+      gdb1bitspace-filled_144: 883273203
+      gdb1bitspace-filled_145: -2110927759
+      gdb1bitspace-filled_146: -338128136
+      gdb1bitspace-filled_147: 1815111704
+      gdb1bitspace-filled_148: -516787043
+      gdb1bitspace-filled_149: 1739238719
+      gdb1bitspace-filled_15: 1945253150
+      gdb1bitspace-filled_150: -16939439
+      gdb1bitspace-filled_151: 852490913
+      gdb1bitspace-filled_152: -818791249
+      gdb1bitspace-filled_153: -1360505780
+      gdb1bitspace-filled_154: -1225396876
+      gdb1bitspace-filled_155: -786746894
+      gdb1bitspace-filled_156: -877922420
+      gdb1bitspace-filled_157: -374722817
+      gdb1bitspace-filled_158: 201937721
+      gdb1bitspace-filled_159: 1133603983
+      gdb1bitspace-filled_16: 1648304695
+      gdb1bitspace-filled_160: -1652991226
+      gdb1bitspace-filled_161: -286606684
+      gdb1bitspace-filled_162: 609271590
+      gdb1bitspace-filled_163: -284589819
+      gdb1bitspace-filled_164: -528977736
+      gdb1bitspace-filled_165: 847029438
+      gdb1bitspace-filled_166: -1092747920
+      gdb1bitspace-filled_167: -2067767081
+      gdb1bitspace-filled_168: -1474597648
+      gdb1bitspace-filled_169: -913251228
+      gdb1bitspace-filled_17: 777230679
+      gdb1bitspace-filled_170: 1699820500
+      gdb1bitspace-filled_171: 1517909145
+      gdb1bitspace-filled_172: 1147490801
+      gdb1bitspace-filled_173: -1629267862
+      gdb1bitspace-filled_174: 35986002
+      gdb1bitspace-filled_175: -1931532784
+      gdb1bitspace-filled_176: -1567953863
+      gdb1bitspace-filled_177: -1497514585
+      gdb1bitspace-filled_178: 1151721520
+      gdb1bitspace-filled_179: 1992480654
+      gdb1bitspace-filled_18: 1213016824
+      gdb1bitspace-filled_180: 1653747969
+      gdb1bitspace-filled_181: -1142975735
+      gdb1bitspace-filled_182: 1482608150
+      gdb1bitspace-filled_183: -1986273220
+      gdb1bitspace-filled_184: -2009380639
+      gdb1bitspace-filled_185: 1404463688
+      gdb1bitspace-filled_186: -565550975
+      gdb1bitspace-filled_19: 1370683694
+      gdb1bitspace-filled_2: 1406678573
+      gdb1bitspace-filled_20: -661836055
+      gdb1bitspace-filled_21: -73265659
+      gdb1bitspace-filled_22: -2079626514
+      gdb1bitspace-filled_23: -1223271623
+      gdb1bitspace-filled_24: 658717961
+      gdb1bitspace-filled_25: -327277264
+      gdb1bitspace-filled_26: -2081379869
+      gdb1bitspace-filled_27: 1419215498
+      gdb1bitspace-filled_28: -2037073130
+      gdb1bitspace-filled_29: -643692874
+      gdb1bitspace-filled_3: -23610838
+      gdb1bitspace-filled_30: 404897525
+      gdb1bitspace-filled_31: 2124791879
+      gdb1bitspace-filled_32: 978816600
+      gdb1bitspace-filled_33: -1054827782
+      gdb1bitspace-filled_34: 383878340
+      gdb1bitspace-filled_35: -473931614
+      gdb1bitspace-filled_36: -776507508
+      gdb1bitspace-filled_37: -1751673603
+      gdb1bitspace-filled_38: 1667704266
+      gdb1bitspace-filled_39: 1018395110
+      gdb1bitspace-filled_4: 1504348813
+      gdb1bitspace-filled_40: -94593804
+      gdb1bitspace-filled_41: 724347416
+      gdb1bitspace-filled_42: -2127561164
+      gdb1bitspace-filled_43: -944375749
+      gdb1bitspace-filled_44: -241324220
+      gdb1bitspace-filled_45: -682776883
+      gdb1bitspace-filled_46: -80983078
+      gdb1bitspace-filled_47: -204632216
+      gdb1bitspace-filled_48: 1591078304
+      gdb1bitspace-filled_49: -1617478577
+      gdb1bitspace-filled_5: 67213493
+      gdb1bitspace-filled_50: 1492823462
+      gdb1bitspace-filled_51: -27861214
+      gdb1bitspace-filled_52: 1113080187
+      gdb1bitspace-filled_53: 1463641325
+      gdb1bitspace-filled_54: -1414668757
+      gdb1bitspace-filled_55: -1319779832
+      gdb1bitspace-filled_56: -537879302
+      gdb1bitspace-filled_57: -2080685590
+      gdb1bitspace-filled_58: 1214228068
+      gdb1bitspace-filled_59: 2128563870
+      gdb1bitspace-filled_6: 996141050
+      gdb1bitspace-filled_60: -428679009
+      gdb1bitspace-filled_61: 1894481445
+      gdb1bitspace-filled_62: 2069422042
+      gdb1bitspace-filled_63: -1818256669
+      gdb1bitspace-filled_64: -43431522
+      gdb1bitspace-filled_65: 554723519
+      gdb1bitspace-filled_66: -198567265
+      gdb1bitspace-filled_67: 812741292
+      gdb1bitspace-filled_68: 896214225
+      gdb1bitspace-filled_69: 1331868021
+      gdb1bitspace-filled_7: 888486136
+      gdb1bitspace-filled_70: -1043367745
+      gdb1bitspace-filled_71: 67736037
+      gdb1bitspace-filled_72: 989303069
+      gdb1bitspace-filled_73: 389003840
+      gdb1bitspace-filled_74: -283296232
+      gdb1bitspace-filled_75: 1013356950
+      gdb1bitspace-filled_76: -1041428178
+      gdb1bitspace-filled_77: -1535601822
+      gdb1bitspace-filled_78: 532253610
+      gdb1bitspace-filled_79: -272326244
+      gdb1bitspace-filled_8: -1724443325
+      gdb1bitspace-filled_80: 719393671
+      gdb1bitspace-filled_81: -1133542688
+      gdb1bitspace-filled_82: 941122542
+      gdb1bitspace-filled_83: -2032841223
+      gdb1bitspace-filled_84: -1121290831
+      gdb1bitspace-filled_85: 1848471191
+      gdb1bitspace-filled_86: -1293271123
+      gdb1bitspace-filled_87: 2075466665
+      gdb1bitspace-filled_88: -1455776731
+      gdb1bitspace-filled_89: -697006608
+      gdb1bitspace-filled_9: 687253593
+      gdb1bitspace-filled_90: 1241132853
+      gdb1bitspace-filled_91: 694502636
+      gdb1bitspace-filled_92: 1849027491
+      gdb1bitspace-filled_93: 9769320
+      gdb1bitspace-filled_94: 306505052
+      gdb1bitspace-filled_95: -583543359
+      gdb1bitspace-filled_96: 790012152
+      gdb1bitspace-filled_97: -519988238
+      gdb1bitspace-filled_98: 1423736923
+      gdb1bitspace-filled_99: 1596016287
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -159,7 +159,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
+  m_BackGroundColor: {r: 0.11320752, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -209,7 +209,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: 0.18, y: -1.44, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -245,9 +245,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db316565ad5d3d241b73112ebcd13ef4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startValue: 0
-  endValue: 21.4
-  duration: 9
+  startValue: -2
+  endValue: 2
+  duration: 0.2
 --- !u!212 &811107728
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -309,8 +309,8 @@ Transform:
   m_GameObject: {fileID: 811107726}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.1111, y: -0.5389, z: 0}
-  m_LocalScale: {x: 0.22686598, y: 0.22686598, z: 0.22686598}
+  m_LocalPosition: {x: -1.99, y: -0.02, z: 0}
+  m_LocalScale: {x: 0.12516196, y: 0.12516196, z: 0.12516196}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -332,7 +332,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &904277085
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -425,7 +425,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1461742520}
   - component: {fileID: 1461742519}
-  - component: {fileID: 1461742518}
   - component: {fileID: 1461742521}
   m_Layer: 0
   m_Name: player
@@ -434,27 +433,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!95 &1461742518
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1461742516}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 63f23f7489af5e94cb9686ff3c8716ae, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!212 &1461742519
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -516,8 +494,8 @@ Transform:
   m_GameObject: {fileID: 1461742516}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.02, y: -3.53, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0.18, y: -3.88, z: 0}
+  m_LocalScale: {x: 0.4143, y: 0.4143, z: 0.4143}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
